@@ -1,6 +1,6 @@
 # GameDAC OLED Controller
 
-Vibe-coded Apple Silicon native macOS menu bar app for SteelSeries `screened-128x52` OLED devices such as the Nova Pro / GameDAC family. It uses SteelSeries' local GameSense API.
+Vibe coded Apple Silicon native macOS menu bar app for SteelSeries OLED devices such as the Nova Pro's GameDAC. It uses SteelSeries' local GameSense API, so it might work on other SS peripherals with OLED displays as well.
 
 ## What it does
 
